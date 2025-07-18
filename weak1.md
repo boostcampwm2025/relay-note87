@@ -100,3 +100,13 @@ https://private-user-images.githubusercontent.com/43542982/467906946-3b817ab4-c9
 
 - 2분 명상법등을 추천받았다. 마음에 들지 않으면 다시 요청하여 다른 방법을 추천받을 수 있다.
 - https://private-user-images.githubusercontent.com/43542982/467906947-53fe40ef-cfc6-4966-b967-f2a8d79b3e42.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI4MjI4NTQsIm5iZiI6MTc1MjgyMjU1NCwicGF0aCI6Ii80MzU0Mjk4Mi80Njc5MDY5NDctNTNmZTQwZWYtY2ZjNi00OTY2LWI5NjctZjJhOGQ3OWIzZTQyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE4VDA3MDkxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhY2M1NzI0NzI1OGJlNDhmY2JmYWZmZDE4NGJlM2M0NzhhNTA5M2MwMzg4ZTMwYWY0NmU1YTY1OGUyZGFjZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dqHt4z07gxmSVxnKhmREZRR7JHJ9GZ7S8KBCqCw_Rw4
+
+## 퀘스트
+
+### 1️⃣ AI를 통해서 부스트캠프에서 지속가능한 성장을 위해 신체/심리적으로 도움이 될만한 행동 없을 지 질문해보기
+
+### 2️⃣ 오늘 학습한 내용을 토대로 AI에게 더 깊은 주제를 추천받기
+
+### 3️⃣ AI에게 했던 질문을 크로스 체킹 해보기 
+
+### 4️⃣ 오늘 하루 고생한 나에게 AI를 통해 위로 받아보기
