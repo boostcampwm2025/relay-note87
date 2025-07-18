@@ -36,8 +36,6 @@
   - 검증 방법을 알려달라고 하기
   - 다른 AI에게 확인하기
 
-https://private-user-images.githubusercontent.com/43542982/467906945-94f636e4-0db5-4fcd-9620-f26c6ed0f3be.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI4MjI4NTQsIm5iZiI6MTc1MjgyMjU1NCwicGF0aCI6Ii80MzU0Mjk4Mi80Njc5MDY5NDUtOTRmNjM2ZTQtMGRiNS00ZmNkLTk2MjAtZjI2YzZlZDBmM2JlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE4VDA3MDkxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5NWM5ZGU2MTMyYzNkOWU3YzFlOGJlOWU1NzkzZjM5NDE5OGJiNmJkMGUxNjU0MDYzYzBlNDBlZjc1ZWU3MTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.7mQFLbwV78O9UfJah46SfcmzEwCRw72coiJAWSfNlQI
-
 - 기존의 지피티를 통해서 질문에대한 답을 구글 Gemini를 통해서 답변 받은 내용으로 크로스 체크의 효용성과 많은 무료 LLM API서비스가 이용가능해서 , 충분히 실행할만 하다.
 
 ### 3️⃣ AI의 위로를 실제로 받아보며 조사하기
@@ -92,14 +90,12 @@ ptmalloc2 기반의 arena 개념까지 같이 공부해보면
 까지 이어져서 정말 실무적인 도움이 되는 주제야.
 ```
 
-https://private-user-images.githubusercontent.com/43542982/467906946-3b817ab4-c9b2-4e29-8d8a-e315bfc4e3de.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI4MjI4NTQsIm5iZiI6MTc1MjgyMjU1NCwicGF0aCI6Ii80MzU0Mjk4Mi80Njc5MDY5NDYtM2I4MTdhYjQtYzliMi00ZTI5LThkOGEtZTMxNWJmYzRlM2RlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE4VDA3MDkxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJkOGUzM2IwY2E4MzI5ZjcxODdjNDJiNmY3MjcxMDdmMTFiMjRhZWRjNDFhYzBlNTc0MDFjNTU2ZjBmNzM1ZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.S7ujz9Q3v0Wt7YE1E2J8WpM0IxMpLXOKhDQEa_CuZNU
 - 페이지 교체 알고리즘,프로세스 동기화 &상호배제 , 자바스크립트 엔진의 메모리 관리 & 가비지 컬렉션를 추천 받았다 , 이는 우리 학습에 밀접한 주제를 선정해주어서 , 더 발전이 필요한 경우 AI학습을 통해 실현할 수 있다.
 
-  
 ### 4️⃣ AI를 통해서 부스트캠프에서 지속가능한 성장을 위해 신체/심리적으로 도움이 될만한게 없을까?
 
 - 2분 명상법등을 추천받았다. 마음에 들지 않으면 다시 요청하여 다른 방법을 추천받을 수 있다.
-- https://private-user-images.githubusercontent.com/43542982/467906947-53fe40ef-cfc6-4966-b967-f2a8d79b3e42.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI4MjI4NTQsIm5iZiI6MTc1MjgyMjU1NCwicGF0aCI6Ii80MzU0Mjk4Mi80Njc5MDY5NDctNTNmZTQwZWYtY2ZjNi00OTY2LWI5NjctZjJhOGQ3OWIzZTQyLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE4VDA3MDkxNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlhY2M1NzI0NzI1OGJlNDhmY2JmYWZmZDE4NGJlM2M0NzhhNTA5M2MwMzg4ZTMwYWY0NmU1YTY1OGUyZGFjZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dqHt4z07gxmSVxnKhmREZRR7JHJ9GZ7S8KBCqCw_Rw4
+
 
 ## 퀘스트
 
@@ -112,6 +108,8 @@ https://private-user-images.githubusercontent.com/43542982/467906946-3b817ab4-c9
 - 출처나 근거에 대해 물어보거나 또 다른 AI에게 답변 검증받기
 
 ### 3️⃣ AI를 통해서 부스트캠프에서 지속가능한 성장을 위해 신체/심리적으로 도움이 될만한 행동 없을 지 질문해보기
+
+-  리프레쉬를 위해 AI에게 5분 이내로 할 수 있는 간단한 활동 추천받기
 
 ### 4️⃣ 오늘 하루 고생한 나에게 AI를 통해 위로 받아보기
 
